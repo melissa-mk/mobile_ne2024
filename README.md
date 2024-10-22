@@ -1,7 +1,8 @@
 
 ## About this Project
 This project uses a starter for a native mobile app using React Native, Expo, Tailwind CSS, Express, and Prisma. The project was made as a bare-bones social media platform that allows users to create accounts, sign in, create/view/edit/delete posts, and create/view/edit/delete comments on posts. 
-This project was part of the 2024 National Exam Practical Assessment of Mobile App Development.
+
+This project was created as part of the 2024 National Exam Practical Assessment of Mobile Application Development.
 
 ## Quick Setup Guide
 ### Backend Setup
