@@ -1,13 +1,15 @@
-This is a starter project for a native mobile app using React Native, Expo, Tailwind CSS, Express, and Prisma.
 
-# Quick Setup Guide
-## Backend Setup
+## About this Project
+This project uses a starter for a native mobile app using React Native, Expo, Tailwind CSS, Express, and Prisma. The project was made as a bare-bones social media platform that allows users to create accounts, sign in, create/view/edit/delete posts, and create/view/edit/delete comments on posts.
 
-### Environment Variables
+## Quick Setup Guide
+### Backend Setup
+
+#### Environment Variables
 1. Create an `.env` file in the `backend` directory.
 2. Add a DATABASE_URL and a JWT_SECRET variables and fill in their respective values.
 
-### Running the Backend
+#### Running the Backend
 1. Navigate to the `backend` directory.
 2. Install the dependencies by running:
    ```sh
@@ -27,13 +29,13 @@ This is a starter project for a native mobile app using React Native, Expo, Tail
     ```
 6. The backend server should now be running on `http://localhost:8000`.
 
-## Mobile Setup
+### Mobile Setup
 
-# Changing the IP Address
+#### Changing the IP Address
 Open the `mobile/lib/axios.config.js` file.
 Change the `IP_ADDRESS` variable to your local IP address. This is necessary for the mobile app to communicate with the backend.
 
-# Running the Mobile App
+#### Running the Mobile App
 1. Navigate to the `mobile` directory.
 2. Install the dependencies by running:
    ```sh
