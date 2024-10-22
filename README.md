@@ -47,5 +47,3 @@ Change the `IP_ADDRESS` variable to your local IP address. This is necessary for
    ```sh
     npx expo start
     ```
-
-Inspired by @Mutesa-Cedric's work!
